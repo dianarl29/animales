@@ -1,0 +1,1 @@
+data class AnimalesVO(val animal : String, val tipo : String)
