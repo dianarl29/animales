@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">animales</string>
+    <string name="look_up_animales">look_up_animales</string>
+    <string name="look_up_tipo">look_up_tipo</string>
 </resources>

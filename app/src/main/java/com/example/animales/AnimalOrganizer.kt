@@ -8,12 +8,8 @@ class AnimalOrganizer {
     constructor(){
         listaAnimales = listOf(
             AnimalesVO("Abeja","Insecto"),
-            AnimalesVO(""),
-            AnimalesVO(""),
-            AnimalesVO(""),
-            AnimalesVO(""),
-            AnimalesVO(""),
-            AnimalesVO("")
+
+            AnimalesVO("Rana", "Anfibios")
 
         )
     }
